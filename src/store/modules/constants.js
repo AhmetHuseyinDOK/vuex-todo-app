@@ -1,0 +1,8 @@
+export const GET_DONE_LIST = 'GET_DONE_LIST'
+export const GET_UNDONE_LIST = 'GET_TODO_LIST'
+export const GET_ALL_LIST = 'GET_ALL_LIST'
+export const ADD_TODO = 'ADD_TODO'
+export const CHANGE_STATUS = 'CHANGE_STATUS'
+export const REMOVE_TODO = 'REMOVE_TODO'
+export const REMOVE_ALL_DONE = 'REMOVE_ALL_DONE'
+export const REMOVE_ALL = 'REMOVE_ALL'
