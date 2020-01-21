@@ -1,5 +1,8 @@
 # todoapp
 
+## Preview Online
+[See on github pages](https://ahmethuseyindok.github.io/vuex-todo-app/dist/).
+
 ## Project setup
 ```
 npm install
