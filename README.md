@@ -1,4 +1,4 @@
-# todoapp
+# Vuex Based Todo App
 
 ## Preview Online
 [See on github pages](https://ahmethuseyindok.github.io/vuex-todo-app/dist/).
